@@ -1,0 +1,24 @@
+.featured-articles {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .article-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .see-all-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ccc;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .see-all-btn:hover {
+    background-color: #bbb;
+  }
+  

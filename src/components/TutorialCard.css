@@ -1,0 +1,23 @@
+.tutorial-card {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .tutorial-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .tutorial-card h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .tutorial-card p {
+    font-size: 14px;
+  }
+  
